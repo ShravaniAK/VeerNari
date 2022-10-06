@@ -2161,3 +2161,14 @@ a:focus {
         text-align: center;
     }
 }
+
+/*login */
+
+.login a{ 
+    position: relative;
+    display: flex;
+    flex-direction:column ;
+    color: black;
+    float: right;
+    margin: 2rem;
+}
